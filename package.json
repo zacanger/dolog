@@ -1,0 +1,28 @@
+{
+  "name": "dolog",
+  "version": "0.1.0",
+  "description": "ugh console.logs everywhere god stahp already",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zacanger/dolog.git"
+  },
+  "keywords": [
+    "console.log",
+    "log"
+  ],
+  "author": {
+    "name": "Zac Anger",
+    "email": "zac@zacanger.com",
+    "url": "http://zacanger.com"
+  },
+  "license": "WTFPL",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
+
