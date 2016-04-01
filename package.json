@@ -1,6 +1,6 @@
 {
   "name": "dolog",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "ugh console.logs everywhere god stahp already",
   "main": "index.js",
   "scripts": {
