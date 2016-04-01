@@ -2,16 +2,19 @@ const log = require('.')
 
 doLog = true
 
-// example usage
+log('doLog is true right now\n')
+
 function ex(ample){
   log(ample)
 }
+
 ex('testing from inside a function, here\n')
+
 log('testing directly, here\n')
 
-// or, put another way:
-// var doLog = true
-// var log = function(){
-//   doLog && console && console.log.apply(console, arguments)
-// }
+log('doLog is about to be false\n')
+
+doLog = false
+
+log('this is a pointless log lol\n')
 
