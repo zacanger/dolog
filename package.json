@@ -1,15 +1,17 @@
 {
   "name": "dolog",
-  "version": "0.2.0",
-  "description": "ugh console.logs everywhere god stahp already",
+  "version": "0.2.1",
+  "description": "tiny module to turn console.log on and off",
   "main": "index.js",
   "scripts": {
-    "test": "node test"
+    "test": "node examples"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/zacanger/dolog.git"
   },
+  "bugs": "https://github.com/zacanger/dolog/issues",
+  "homepage": "https://github.com/zacanger/dolog#readme",
   "keywords": [
     "console.log",
     "log"

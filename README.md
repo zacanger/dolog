@@ -1,7 +1,7 @@
-console.log is annoying.
+`console.log` can get annoying. you could go through all
+your code and comment it out. or you could just use this.
 
-turn if off
+usage: see `examples.js`.
 
-see test.js for usage examples.
-
+license: wtfpl
 
