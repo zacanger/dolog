@@ -4,4 +4,3 @@ your code and comment it out. or you could just use this.
 usage: see `examples.js`.
 
 license: wtfpl
-

@@ -18,3 +18,8 @@ doLog = false
 
 log('this is a pointless log lol\n')
 
+doLog = true
+
+process.env.NODE_ENV = 'production'
+
+log('so is this!')
